@@ -1,3 +1,4 @@
+package src.java_method;
 public class CafePOS {
 
     
